@@ -1,0 +1,14 @@
+
+/**
+ *print_alphabet in lowercase
+ */
+ 
+void print_alphabet(void)
+{
+    char letter;
+    
+    for (letter = 'a'; letter <= 'z'; lstter++)
+	    _putchar(letter);
+
+    _putchar('\n');
+}
